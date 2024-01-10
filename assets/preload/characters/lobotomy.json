@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				371,
+				-160
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				320,
+				-200
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				94,
+				160
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-143
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				200,
+				-200
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lobotomy",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "lobotomygood",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		108,
+		1
+	],
+	"camera_position": [
+		-220,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
